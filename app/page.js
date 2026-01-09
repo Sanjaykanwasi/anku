@@ -265,7 +265,7 @@ export default function Home() {
         <div className="bg-gradient-to-r from-gray-700/50 to-purple-900/30 rounded-2xl p-6 mb-6 border border-gray-600/30">
           <p className="text-gray-200 leading-relaxed text-lg">
             I said something wrong unintentionally, and I truly regret it. You
-            mean the world to me, and I hope you can find it in your heart to
+            are my great friend, and I hope you can find it in your heart to
             forgive me 💙
           </p>
         </div>
