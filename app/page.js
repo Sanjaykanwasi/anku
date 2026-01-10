@@ -82,7 +82,7 @@ import { useState, useEffect, useRef } from "react";
 import FloatingHearts from "./components/FloatingHearts";
 import EmojiRain from "./components/EmojiRain";
 
-const herName = "Ankita";
+const herName = "Ankita Thakur";
 
 export default function Home() {
   const [response, setResponse] = useState(null);
